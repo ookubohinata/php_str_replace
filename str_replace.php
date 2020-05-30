@@ -1,6 +1,6 @@
 <?php
     $str_base = "PHP4_PHP5_PHP7";
-    // 第１＝ターゲット文字,第２＝置き換え文字,第３＝元の文字列
+    // っr第１＝ターゲット文字,第２＝置き換え文字,第３＝元の文字列
     echo $str = str_replace("PHP5","PHP5.5",$str_base)."<br>";
 
     $str_base2 = "大丈夫です";
